@@ -1,0 +1,8 @@
+We Have 2 files util.py and 
+util.py contains functions like remove_puctuation and get_robert_frost.
+I got remove_punctuation from stackoverflow.
+get_robert_frost starts out by defining a start token and end token , giving it values 0 and 1,current index starts at 2 and we keep on
+increasing the index each time we add a new token to it.
+This function returns a list of sentences and  word to index map.
+
+srn_language_tf is the main function which is used to generate poetry.
