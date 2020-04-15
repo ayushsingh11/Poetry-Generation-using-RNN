@@ -1,3 +1,4 @@
+This repository is for poetry generation using LSTM RNN.
 We Have 2 files util.py and 
 util.py contains functions like remove_puctuation and get_robert_frost.
 I got remove_punctuation from stackoverflow.
